@@ -70,19 +70,20 @@ div{
   padding: 18px;
   font-size: 25px;
   letter-spacing: 10px;
-  font-family:cursive;
+  font-family: 'Roboto', sans-serif;
 }
 
 
 
 
 .header{
-  font-family: 'Rock Salt';
-  font-size: 1rem;
+  font-family: 'Roboto', sans-serif;
+  font-size: 3rem;
   color: #8FB9AD;
-  padding: 5px;
-  text-align: center;
-  letter-spacing: 30px;
+  padding: 150px;
+  text-align: center-left;
+  line-height:50px;
+  letter-spacing: 15px;
 
 }
 
@@ -99,7 +100,7 @@ div{
   padding: 14px 16px;
   text-decoration: none;
   font-size: 1rem;
-  font-family: cursive;
+  font-family: 'Roboto', sans-serif;
 }
 
 .navbar a:hover{
@@ -112,7 +113,7 @@ div{
 .row1{
   width: 100%;
   height: auto;
-  font-family:'Sniglet';
+  font-family: 'Roboto', sans-serif;
   color: #F7EFEB ;
   font-size: 1.5rem;
   background-color: #F59670;
@@ -124,8 +125,9 @@ div{
     .row1  p{
    display: inline;
    text-align: justify;
+   padding-top:24dp;
    line-height: 1.6;
-   word-spacing: 10px;
+   word-spacing: 5px;
 
 
 }
@@ -150,7 +152,7 @@ div{
 .row2{
   width: 100%;
   height:auto;
-  font-family: 'Sniglet';
+ font-family: 'Roboto', sans-serif;
   font-size:1.5rem;
   background-color: #5DA6CF;
   color: #EAE2C8  ;
